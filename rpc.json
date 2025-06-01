@@ -1,0 +1,6 @@
+{
+  "networkName": "ApeChain",
+  "rpcUrl": "https://apechain.calderachain.xyz/http",
+  "chainId": 33139,
+  "currencySymbol": "APE"
+}
