@@ -1,0 +1,12 @@
+{
+  "dropName": "NewNFT-Public",
+  "abiFile": "abi.json",
+  "mintFunction": "publicMint",
+  "mintParams": ["quantity"],
+  "mintQuantity": 2,
+  "mintValue": "0.01",
+  "gasLimit": 200000,
+  "maxGasPriceGwei": 75,
+  "delayMs": 1000,
+  "checkIntervalMs": 30000
+}
