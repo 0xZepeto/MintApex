@@ -1,5 +1,5 @@
 {
-  "dropName": "Boggy-Public",
+  "dropName": "Public",
   "abiFile": "abi.json",
   "mintFunction": "mint",
   "mintParams": ["to", "amount", "phaseID", "price", "maxPerTx", "maxPerUser", "maxPerPhase", "nonce", "signature"],
